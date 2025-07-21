@@ -55,10 +55,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/> </p>
 
 <p align="center">
-  🚀 <b>Main focus:</b>  
-  ⭐ <b>Java</b> | 🔵 <b>C++</b> | 🔷 <b>C</b> | 🔴 <b>Angular</b> | 🟦 <b>TypeScript</b> | 🟨 <b>JavaScript</b> | 🐍 <b>Python</b>  
-  — with a strong base in <b>Linked Lists & Data Structures</b>!
+  🚀 <b>Main Focus:</b>  
+  ⭐ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 🔷 C &nbsp;|&nbsp; 🔴 Angular &nbsp;|&nbsp; 🟦 TypeScript &nbsp;|&nbsp; 🟨 JavaScript &nbsp;|&nbsp; 🐍 Python  
+  <br>💡 I love building smart solutions with a strong focus on <b>Linked Lists, Data Structures & Algorithms</b>.
 </p>
+
 
 
 <p align="center">
