@@ -67,6 +67,11 @@
 <p align="center">
   🚀 <b>Main Focus:</b>  
   ⭐ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 🔷 C &nbsp;|&nbsp; 🔴 Angular &nbsp;|&nbsp; 🟦 TypeScript &nbsp;|&nbsp; 🟨 JavaScript &nbsp;|&nbsp; 🐍 Python  
+  <p>
+
+    
+  </p>
+  
   <br>💡 I love building smart solutions with a strong focus on <b>Linked Lists, Data Structures & Algorithms</b>.
 </p>
 
