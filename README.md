@@ -10,7 +10,7 @@
 
 - 🔍 I love solving **real-world problems** with clean, efficient code.
 - 📚 I practice **Logic Building**, **Data Structures**, and **Linked Lists** in multiple languages.
-- 🌟 Languages: **C, C++, Java, Python, JavaScript, Angular**.
+- 🌟 Languages: **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
 - 🧠 Strong foundation in DSA, algorithms & competitive coding.
 
 ---
@@ -34,7 +34,8 @@
 | [Chat-Messenger-with-Log-Facility](https://github.com/Samyakmedhe/Chat-Messenger-with-Log-Facility) | Java Chat Messenger app with logging |
 | [Customised-Dynamic-File-System](https://github.com/Samyakmedhe/Customised-Dynamic-File-System) | Dynamic File System in **C++** |
 | [File-Packar---UnPacker](https://github.com/Samyakmedhe/File-Packar---UnPacker) | Java File Packer & Unpacker project |
-
+| [JavaScript](https://github.com/Samyakmedhe/JavaScript) | Practical projects using **JavaScript**  
+| [Typescript](https://github.com/Samyakmedhe/typescript) | Practical projects using **TypeScript**
 ---
 
 ## ⚙️ Languages & Tools
@@ -44,6 +45,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 ---
