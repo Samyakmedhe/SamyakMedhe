@@ -52,7 +52,17 @@
 ---
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   🚀 <b>Main Focus:</b>  
@@ -60,13 +70,6 @@
   <br>💡 I love building smart solutions with a strong focus on <b>Linked Lists, Data Structures & Algorithms</b>.
 </p>
 
-
-
-<p align="center">
-  🚀 <b>Strong base in Linked Lists & Data Structures!</b>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
