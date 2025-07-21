@@ -35,7 +35,7 @@
 | [Customised-Dynamic-File-System](https://github.com/Samyakmedhe/Customised-Dynamic-File-System) | Dynamic File System in **C++** |
 | [File-Packar---UnPacker](https://github.com/Samyakmedhe/File-Packar---UnPacker) | Java File Packer & Unpacker project |
 | [JavaScript](https://github.com/Samyakmedhe/JavaScript) | Practical projects using **JavaScript**  
-| [Typescript](https://github.com/Samyakmedhe/typescript) | Practical projects using **TypeScript**
+| [Typescript](https://github.com/Samyakmedhe/Typescript-) | Practical projects using **TypeScript**
 ---
 
 ## ⚙️ Languages & Tools
