@@ -63,7 +63,7 @@ Here’s what you’ll find on my GitHub:
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [samyakmedhe796@gmail.com](mailto:samyakmedhe796@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/samyak-medhe-0200342a3/) *(Add your link here!)*
+- 💼 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/samyak-medhe-0200342a3/) 
 
 ---
 
