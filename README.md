@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Samyak Medhe</h1>
+<h1 align="center">👋 Hi, I'm Samyak Kailas Medhe</h1>
 
 <p align="center">
   💻 Developer | 🧩 Logic Builder | 🔗 Data Structures & Linked Lists Enthusiast
@@ -8,28 +8,36 @@
 
 ## 🚀 About Me
 
-- 🔍 I love solving **real-world problems** with code.
-- 💡 Strong in **Logic Building**, **DSA**, and **Linked Lists**.
-- 🌐 Multi-language developer: **C, C++, Java, Python, JavaScript, Angular**.
-- 📚 Always learning, building, and improving.
+- 🔍 I love solving **real-world problems** with clean, efficient code.
+- 📚 I practice **Logic Building**, **Data Structures**, and **Linked Lists** in multiple languages.
+- 🌟 Languages: **C, C++, Java, Python, JavaScript, Angular**.
+- 🧠 Strong foundation in DSA, algorithms & competitive coding.
 
 ---
 
-## 🗂️ What I Do
+## 🗂️ What I Build
 
-- ✅ Build and share classic **logic programs** in multiple languages.
-- ✅ Implement **Data Structures & Algorithms** for learning and interviews.
-- ✅ Explore **competitive programming** and system design.
+- ✅ Classic **Logic Programs** (assignments & practice problems)
+- ✅ **Generic & Custom Linked Lists** libraries
+- ✅ **DSA Projects** in C, C++, Java, Python
+- ✅ **Mini applications** like Chat Messenger & File Systems
 
 ---
 
 ## 📌 Featured Repositories
 
-| Project | Description |
-| ------- | ------------ |
-| [Logic-Builder](https://github.com/Samyakmedhe/Logic-Builder) | Classic logic problems (Armstrong, Palindrome, Factorial, Prime, etc.) in **C, C++, Java, Python, JS** |
-| [DSA-Playground](https://github.com/Samyakmedhe/DSA-Playground) | My personal **Data Structures & Algorithms** library: Linked Lists, Trees, Graphs, Sorting, Searching |
-| [LinkedList-Visualizer](#) | *(Coming soon!)* Visualize linked lists step by step with an interactive tool (Angular & JS) |
+Here’s what you’ll find on my GitHub:
+
+| Repository | Description |
+| ----------------------------- | ------------------------------------------------------------------------------------ |
+| [LOGIC_BUILDING_ASSIGNMENT](https://github.com/Samyakmedhe/LOGIC_BUILDING_ASSIGNMENT) | Logic building programs & assignments in **C** |
+| [Generic_LinkedList](https://github.com/Samyakmedhe/Generic_LinkedList) | Generic Linked List library in **C++** |
+| [LinkedListLibrary-Java](https://github.com/Samyakmedhe/LinkedListLibrary-Java) | Linked List implementation in **Java** |
+| [SinglyLinkedList](https://github.com/Samyakmedhe/SinglyLinkedList) | Singly Linked List in **C** |
+| [Python_Assignment](https://github.com/Samyakmedhe/Python_Assignment) | Python programs for practice |
+| [Practice_Programming_java](https://github.com/Samyakmedhe/Practice_Programming_java) | Java logic practice |
+| [Chat-Messenger-with-Log-Facility](https://github.com/Samyakmedhe/Chat-Messenger-with-Log-Facility) | Java Chat Messenger app with logging |
+| [Customised-Dynamic-File-System](https://github.com/Samyakmedhe/Customised-Dynamic-File-System) | Dynamic File System in **C++** |
 
 ---
 
@@ -55,10 +63,8 @@
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [samyakmedhe796@gmail.com](mailto:samyakmedhe796@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/samyak-medhe-0200342a3/)
-
+- 💼 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/samyak-medhe-0200342a3/) *(Add your link here!)*
 
 ---
 
-⭐ *Thanks for visiting my profile! Drop a ⭐ on my repos if they help you.*  
-🔥 *Let’s grow together — happy coding!*
+⭐ *Thanks for visiting my profile! If my work helps you, drop a ⭐ or connect — let’s grow together!* 🚀
