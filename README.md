@@ -8,10 +8,11 @@
 
 ## 🚀 About Me
 
-- 🔍 I love solving **real-world problems** with clean, efficient code.
-- 📚 I practice **Logic Building**, **Data Structures**, and **Linked Lists** in multiple languages.
-- 🌟 Languages: **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
-- 🧠 Strong foundation in DSA, algorithms & competitive coding.
+- 👨‍💻 Passionate about **DSA** — especially **Linked Lists**, Trees & custom libraries.
+- 🛠️ Building projects in **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
+- ⚙️ Love turning complex problems into simple, clean code.
+- 🌱 Currently exploring full-stack dev & real-world system design.
+- - 🧠 Strong foundation in DSA, algorithms & competitive coding.
 
 ---
 
