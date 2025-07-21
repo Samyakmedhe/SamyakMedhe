@@ -12,7 +12,7 @@
 - 🛠️ Building projects in **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
 - ⚙️ Love turning complex problems into simple, clean code.
 - 🌱 Currently exploring full-stack dev & real-world system design.
-- - 🧠 Strong foundation in DSA, algorithms & competitive coding.
+- 🧠 Strong foundation in DSA, algorithms & competitive coding.
 
 ---
 
