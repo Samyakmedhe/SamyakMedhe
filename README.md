@@ -49,8 +49,28 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 ---
+## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/> </p> <p align="center"> 🚀 **Main focus:**  `Java`, `C++`, 'C', 'Angular' ,`TypeScript`, `JavaScript`and `Python` — with a strong base in **Linked Lists & Data Structures**! </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/> </p>
+
+<p align="center">
+  🚀 <b>Main focus:</b>  
+  ⭐ <b>Java</b> | 🔵 <b>C++</b> | 🔷 <b>C</b> | 🔴 <b>Angular</b> | 🟦 <b>TypeScript</b> | 🟨 <b>JavaScript</b> | 🐍 <b>Python</b>  
+  — with a strong base in <b>Linked Lists & Data Structures</b>!
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  🚀 <b>Strong base in Linked Lists & Data Structures!</b>
+</p>
 
 ---
 
