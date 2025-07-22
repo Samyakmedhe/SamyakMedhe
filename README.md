@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Samyak Kailas Medhe</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FF5733;">Samyak Kailas Medhe</span></h1>
 
 <p align="center">
   💻 Developer | 🧩 Logic Builder | 🔗 Data Structures & Linked Lists Enthusiast
@@ -10,9 +10,9 @@
 
 - 👨‍💻 Passionate about **DSA** — especially **Linked Lists**, Trees & custom libraries.
 - 🛠️ Building projects in **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
-- ⚙️ Love turning complex problems into simple, clean code.
+- ⚙️ I love turning complex problems into clean, simple code.
 - 🌱 Currently exploring full-stack dev & real-world system design.
-- 🧠 Strong foundation in DSA, algorithms & competitive coding.
+- 🧠 Strong foundation in data structures, algorithms, and competitive programming.
 
 ---
 
@@ -35,9 +35,10 @@
 | [Chat-Messenger-with-Log-Facility](https://github.com/Samyakmedhe/Chat-Messenger-with-Log-Facility) | Java Chat Messenger app with logging |
 | [Customised-Dynamic-File-System](https://github.com/Samyakmedhe/Customised-Dynamic-File-System) | Dynamic File System in **C++** |
 | [File-Packar---UnPacker](https://github.com/Samyakmedhe/File-Packar---UnPacker) | Java File Packer & Unpacker project |
-| [JavaScript](https://github.com/Samyakmedhe/JavaScript) | Practical projects using **JavaScript**  
-| [Typescript](https://github.com/Samyakmedhe/Typescript-) | Practical projects using **TypeScript**
-| [Angular](https://github.com/Samyakmedhe/Angular-Projecys) | Practical projects using **TypeScript**
+| [JavaScript](https://github.com/Samyakmedhe/JavaScript) | Practical projects using **JavaScript** |
+| [Typescript](https://github.com/Samyakmedhe/Typescript-) | Practical projects using **TypeScript** |
+| [Angular](https://github.com/Samyakmedhe/Angular-Projects) | Angular projects and demos |
+
 ---
 
 ## ⚙️ Languages & Tools
@@ -51,6 +52,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -65,22 +67,20 @@
   <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  🚀 <b>Main Focus:</b>  
-  ⭐ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 🔷 C &nbsp;|&nbsp; 🔴 Angular &nbsp;|&nbsp; 🟦 TypeScript &nbsp;|&nbsp; 🟨 JavaScript &nbsp;|&nbsp; 🐍 Python  
-  <p>
+---
 
-    
-  </p>
-  
-  <br>💡 I love building smart solutions with a strong focus on <b>Linked Lists, Data Structures & Algorithms</b>.
+## 🔍 Main Focus
+
+<p align="center">
+  ⭐ Java | 🔵 C++ | 🔷 C | 🔴 Angular | 🟦 TypeScript | 🟨 JavaScript | 🐍 Python  
 </p>
 
+---
 
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [samyakmedhe796@gmail.com](mailto:samyakmedhe796@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn URL](https://www.linkedin.com/in/samyak-medhe-0200342a3/)
+- 💼 **LinkedIn:** [linkedin.com/in/samyak-medhe-0200342a3](https://www.linkedin.com/in/samyak-medhe-0200342a3/)
 
 ---
 
