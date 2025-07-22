@@ -37,6 +37,7 @@
 | [File-Packar---UnPacker](https://github.com/Samyakmedhe/File-Packar---UnPacker) | Java File Packer & Unpacker project |
 | [JavaScript](https://github.com/Samyakmedhe/JavaScript) | Practical projects using **JavaScript**  
 | [Typescript](https://github.com/Samyakmedhe/Typescript-) | Practical projects using **TypeScript**
+| [Angular](https://github.com/Samyakmedhe/Angular-Projecys) | Practical projects using **TypeScript**
 ---
 
 ## ⚙️ Languages & Tools
