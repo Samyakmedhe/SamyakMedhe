@@ -21,7 +21,7 @@
 | Repository | Description |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
 | [Packer-Unpacker-Project](https://github.com/Samyakmedhe/Packer-UnPacker-Project) | Java File Packer & Unpacker project and Angular Frontend |
-| [LOGIC_BUILDING_ASSIGNMENT](https://github.com/Samyakmedhe/LOGIC_BUILDING_ASSIGNMENT) | Logic building programs & assignments in **C** |
+| [LOGIC_BUILDING_ASSIGNMENT](https://github.com/Samyakmedhe/LOGIC_BUILIDING_ASSIGNMENT) | Logic building programs & assignments in **C** |
 | [Generic_LinkedList](https://github.com/Samyakmedhe/Generic_LinkedList) | Generic Linked List library in **C++** |
 | [LinkedListLibrary-Java](https://github.com/Samyakmedhe/LinkedListLibrary-Java) | Linked List implementation in **Java** |
 | [Linked-List](https://github.com/Samyakmedhe/Linked-List) | Linked List operations in **Java** |
