@@ -16,7 +16,6 @@
 
 ---
 
-https://github.com/Samyakmedhe/RedBus
 ## 📌 Featured Repositories
 
 | Repository | Description |
