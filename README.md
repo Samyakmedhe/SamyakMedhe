@@ -21,6 +21,7 @@
 | Repository | Description |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
 | [Jarvis](https://github.com/Samyakmedhe/Jarvis) |Python backend + Angular frontend|
+| [FlipkartProject](https://github.com/Samyakmedhe/FlikartAppProject) | Angular frontend|
 | [Packer-Unpacker-Project](https://github.com/Samyakmedhe/Packer-UnPacker-Project) | Java File Packer & Unpacker project and Angular Frontend + Tailwind UI|
 | [Study-Tracker-Project](https://github.com/Samyakmedhe/Study-Tracker-Project) | Study Tracker App with Java Spring Boot backend & Angular frontend |
 | [LOGIC_BUILDING_ASSIGNMENT](https://github.com/Samyakmedhe/LOGIC_BUILIDING_ASSIGNMENT) | Logic building programs & assignments in **C** |
