@@ -22,6 +22,7 @@
 | ----------------------------- | ------------------------------------------------------------------------------------ |
 | [Jarvis](https://github.com/Samyakmedhe/Jarvis) |Python backend + Angular frontend|
 | [FlipkartProject](https://github.com/Samyakmedhe/FlikartAppProject) | Angular frontend|
+| [WeatherPrediction](https://github.com/Samyakmedhe/Weather-Predictor) | Angular frontent + Machine Learning |
 | [DataStructureLibrary](https://github.com/Samyakmedhe/DataStructureLibrary) | C++ with Generic |
 | [RedBus](https://github.com/Samyakmedhe/RedBus) |Angular frontend|
 | [Packer-Unpacker-Project](https://github.com/Samyakmedhe/Packer-UnPacker-Project) | Java File Packer & Unpacker project and Angular Frontend + Tailwind UI|
