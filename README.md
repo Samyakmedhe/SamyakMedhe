@@ -8,11 +8,13 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Passionate about **DSA** — especially **Linked Lists**, Trees & custom libraries.
-- 🛠️ Building projects in **C, C++, Java, Python, JavaScript, TypeScript, Angular**.
-- ⚙️ I love turning complex problems into clean, simple code.
-- 🌱 Currently exploring full-stack dev & real-world system design.
-- 🧠 Strong foundation in data structures, algorithms, and competitive programming.
+- 👨‍💻 Passionate about **Data Structures & Algorithms (DSA)** — with a strong interest in **Linked Lists**, Trees, and custom data-structure libraries.
+- 🛠️ Actively building projects using **C, C++, Java, Python, JavaScript, TypeScript, and Angular**.
+- ⚙️ Interested in **Linux System Programming (LSP)** and understanding how software interacts with the operating system.
+- 🧠 Enjoy breaking down complex problems and converting them into **clean, efficient, and maintainable code**.
+- 🌱 Currently exploring **full-stack development**, backend systems, and **real-world system design**.
+- 📚 Strong foundation in **algorithms, competitive programming, and core computer science concepts**.
+
 
 ---
 
@@ -64,17 +66,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samyakmedhe&show_icons=true&theme=radical" alt="Samyak's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakmedhe&layout=compact&theme=radical&langs_count=8&hide=css,html" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Samyakmedhe&theme=radical&hide_border=true" alt="Daily consistency and contribution streak" /> </p>
 
 ---
 
