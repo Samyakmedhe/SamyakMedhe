@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 👨‍💻 Passionate about **Data Structures & Algorithms (DSA)** — with a strong interest in **Linked Lists**, Trees, and custom data-structure libraries.
 - 🛠️ Actively building projects using **C, C++, Java, Python, JavaScript, TypeScript, and Angular**.
